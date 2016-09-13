@@ -1,0 +1,14 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\bin\Debug\Clase05.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe.config
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\bin\Debug\Clase05.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe.CodeAnalysisLog.xml
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\bin\Debug\Clase05.exe.lastcodeanalysissucceeded
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\obj\Debug\Clase05.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase05\obj\Debug\Clase05.pdb

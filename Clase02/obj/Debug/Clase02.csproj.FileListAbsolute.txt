@@ -1,0 +1,6 @@
+E:\Conde.Debora\Clase02\bin\Debug\Clase02.exe.config
+E:\Conde.Debora\Clase02\bin\Debug\Clase02.exe
+E:\Conde.Debora\Clase02\bin\Debug\Clase02.pdb
+E:\Conde.Debora\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+E:\Conde.Debora\Clase02\obj\Debug\Clase02.exe
+E:\Conde.Debora\Clase02\obj\Debug\Clase02.pdb

@@ -1,0 +1,20 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.exe
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\bin\Debug\Clase03.pdb
+C:\Users\Administrador\Desktop\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.config
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\bin\Debug\Clase03.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.CodeAnalysisLog.xml
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\bin\Debug\Clase03.exe.lastcodeanalysissucceeded
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\obj\Debug\Clase03.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase03\obj\Debug\Clase03.pdb

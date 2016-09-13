@@ -1,0 +1,17 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe.config
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe.CodeAnalysisLog.xml
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe.lastcodeanalysissucceeded
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.pdb
+E:\Conde.Debora\Clase02Ejercicio01\bin\Debug\Clase02Ejercicio01.exe.config
+E:\Conde.Debora\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.exe
+E:\Conde.Debora\Clase02Ejercicio01\obj\Debug\Clase02Ejercicio01.pdb

@@ -1,0 +1,23 @@
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.config
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.pdb
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.exe
+C:\Users\Administrador\Documents\Laboratorio2\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.config
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.CodeAnalysisLog.xml
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.lastcodeanalysissucceeded
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.pdb
+E:\Conde.Debora\Clase02Ejercicio13\bin\Debug\Clase02Ejercicio13.exe.config
+E:\Conde.Debora\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.exe
+E:\Conde.Debora\Clase02Ejercicio13\obj\Debug\Clase02Ejercicio13.pdb

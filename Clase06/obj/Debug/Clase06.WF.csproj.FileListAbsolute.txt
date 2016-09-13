@@ -1,0 +1,20 @@
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.config
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.pdb
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csprojResolveAssemblyReference.cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Form1.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Properties.Resources.resources
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.exe
+D:\fguerendiain\tp_laboratorio_2\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.config
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.pdb
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.CodeAnalysisLog.xml
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\bin\Debug\Clase06.WF.exe.lastcodeanalysissucceeded
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Form1.resources
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.Properties.Resources.resources
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.csproj.GenerateResource.Cache
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.exe
+F:\Laboratorio 2\tp_laboratorio_2-master\Guerendiain.Franco\Clase06.WF\obj\Debug\Clase06.WF.pdb
