@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\UsoDelTryParse2010\UsoDelTryParse2010\obj\Debug\UsoDelTryParse2010.exe
+C:\Users\HP\Desktop\UsoDelTryParse2010\UsoDelTryParse2010\obj\Debug\UsoDelTryParse2010.pdb
+C:\Users\HP\Desktop\UsoDelTryParse2010\UsoDelTryParse2010\bin\Debug\UsoDelTryParse2010.exe
+C:\Users\HP\Desktop\UsoDelTryParse2010\UsoDelTryParse2010\bin\Debug\UsoDelTryParse2010.pdb
+C:\Users\HP\Desktop\UsoDelTryParse2010\UsoDelTryParse2010\obj\Debug\UsoDelTryParse2010.csprojResolveAssemblyReference.cache
